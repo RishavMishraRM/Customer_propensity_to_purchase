@@ -9,3 +9,5 @@ We have many visitors to our website every day, some purchase but many do not. W
 
 1.Which of these interactiuons effect a users likelyhood to purchase?
 2.Can we score visitors from yesterday who did not purchase, to see who the most valauve prospects are?
+
+Attached Training Data Link and added data link of kaggle
