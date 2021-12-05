@@ -1,3 +1,3 @@
 .
 
-Training Data :- https://www.kaggle.com/benpowis/customer-propensity-to-purchase-data
+Training Data First:- https://www.kaggle.com/benpowis/customer-propensity-to-purchase-data
